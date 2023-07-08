@@ -1,0 +1,38 @@
+.header-banner {
+    background-image: url("images/banner/banner1.png");
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1600px;
+    height: 800px;
+}
+
+button.btn-primary {
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 5px 5px 5px 250px;
+    border-radius: 5px;
+    background: rgb(241, 91, 34);
+    border: none;
+    /* text-align: right; */
+    position: relative !important;
+    font-size: 24px;
+}
+
+h2.banner-titile {
+    font-size: 45px;
+    color: rgb(21, 20, 20);
+    text-align: center;
+    margin: 40px;
+    width: 410px;
+}
+
+p.banner-description {
+    font-size: 16px;
+    width: 450px;
+}
+
+.banner-clum {
+    display: block;
+    margin: 106px;
+}
